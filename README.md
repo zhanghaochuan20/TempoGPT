@@ -1,2 +1,2 @@
 # TempoGPT
-time series language model
+A multi-modal time series language model
